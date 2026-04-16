@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
+Simples/Content/* linguist-language=C#
+Simples/Scripts/* linguist-language=C#
+*.cshtml linguist-language=C#
 * text=auto
