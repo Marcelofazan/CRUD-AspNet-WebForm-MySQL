@@ -1,6 +1,6 @@
-# CRUD-WebForm-MySQL
+# CRUD-AspNet-WebForm-MySQL
 
-Exemplo de criação CRUD WebForms em C# 
+Exemplo de criação CRUD C# WebForms com banco de dados MySQL.
 
 ## Competências
 
