@@ -11,7 +11,7 @@ Exemplo de criação CRUD C# WebForms com banco de dados MySQL.
 
 ## Execução da aplicação
 
-Para executar a aplicação é necessário rodar Script banco de dados e Recompilar o Projeto
+Para executar a aplicação é necessário rodar Script banco de dados e Compilar o Projeto
 
 ## String de conexão do banco
 
