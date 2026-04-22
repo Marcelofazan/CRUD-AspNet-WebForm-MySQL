@@ -2,7 +2,7 @@
 
 Exemplo de criação CRUD C# WebForms com banco de dados MySQL.
 
-## Competências
+## O que voçê vai ver nesse Projeto
 
 - **MySQL Command** - Comunicação com o Banco de dados
 - **MultiView** - Criação de Abas para navegação
