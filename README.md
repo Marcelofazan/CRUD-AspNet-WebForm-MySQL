@@ -4,9 +4,8 @@ Exemplo de criação CRUD C# WebForms com banco de dados MySQL.
 
 ## O que voçê vai ver nesse Projeto
 
-- **MySQL Command** - Comunicação com o Banco de dados
+**CRUD** - Conjunto de quatro operações essenciais que permitem a manipulação de dados persistentes (criar, ler, atualizar e excluir).
 - **MultiView** - Criação de Abas para navegação
-- **SelectedIndexChanged** - Seleções de registros com Click 
 - **Blob** - Seleção de Arquivos de imagens, gravação e visualização
 
 ## Execução da aplicação
